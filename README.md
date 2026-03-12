@@ -5,8 +5,8 @@ This project is created and maintained by:
 
 * **Akmal Hakimi Bin Abd Rashid**
 * **Ammar Arif Bin Mohd Zainuddin**
+* * **Chan Boon Hong**
 * **Anas Syarafi Bin Nazli**
-* **Chan Boon Hong**
 
 ## Introduction
 **MoodMate** is a high-fidelity interactive UI/UX prototype developed as part of the **ISB 36403 - Interaction Design** course at **Universiti Kuala Lumpur (UniKL)**. The project demonstrates the implementation of user-centered design principles through a practical mental health and wellness management application.
