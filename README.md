@@ -5,7 +5,7 @@ This project is created and maintained by:
 
 * **Akmal Hakimi Bin Abd Rashid**
 * **Ammar Arif Bin Mohd Zainuddin**
-* * **Chan Boon Hong**
+* **Chan Boon Hong**
 * **Anas Syarafi Bin Nazli**
 
 ## Introduction
